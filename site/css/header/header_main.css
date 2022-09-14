@@ -1,0 +1,69 @@
+.main_container{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    width: 100%;
+}
+
+.acesso_rapido{
+
+    text-align: center;
+    width: 100%;
+    max-width: 650px;
+    position: relative;
+    top: 225px;
+    background-color: #58d3ff;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.acesso_rapido .title{
+
+    color: #001c52;
+    font-size: 45px;
+}
+
+.acesso_rapido .boxes{
+
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding: 10px ;
+    justify-content: center;
+}
+
+.acesso_rapido .boxes a{
+
+    width: 150px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 15px;
+    gap: 5px;
+    background-color: white;
+    color: #3a28b6;
+}
+
+.acesso_rapido .boxes a:hover {
+
+    background-color: rgba(23, 23, 138, 0.25);
+    color: white;
+    transition: 0.7s ease-in-out;
+}
+
+.acesso_rapido .boxes i {
+
+    font-size: 50px;
+    color: deeppink;
+}
+
+.acesso_rapido .boxes a:hover i {
+
+    color: #d90052;
+    transition: 0.3s ease-in-out;
+}
