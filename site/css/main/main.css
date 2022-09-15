@@ -1,0 +1,8 @@
+@import url(main_news.css);
+
+main{
+
+    display: flex;
+    flex-direction: column;
+    gap: 50px
+}
