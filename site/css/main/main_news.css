@@ -1,6 +1,5 @@
 .news{
 
-    background-color: rgba(88, 211, 255, 0.15);
     padding-top: 50px;
 
 }
@@ -10,22 +9,6 @@
     padding: 50px;
     background-color: rgba(11, 136, 177, 0.15);
 }
-
-.news .title{
-
-    align-items: center;
-    display: flex;
-    gap: 50px;
-    font-size: 25px;
-    font-weight: bold;
-    color: #001c52;
-}
-
-.news .title i{
-
-    font-size: 50px;
-}
-
 
 .news_section{
 

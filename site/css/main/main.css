@@ -1,8 +1,25 @@
 @import url(main_news.css);
+@import url(user_section.css);
 
 main{
 
     display: flex;
     flex-direction: column;
-    gap: 50px
+    gap: 50px;
+    background-color: rgba(88, 211, 255, 0.15);
+}
+
+.title_texts{
+
+    align-items: center;
+    display: flex;
+    gap: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #001c52;
+}
+
+.title_texts i{
+
+    font-size: 50px;
 }

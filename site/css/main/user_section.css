@@ -1,0 +1,61 @@
+.user_section .container{
+
+    background-color: #58d3ff;
+    padding: 50px;
+}
+
+.cards_users ul{
+
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+
+.cards_users .cards a{
+
+    width: 250px;
+    background-color: #001c52;
+    display: flex;
+    gap: 40px;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+
+.cards_users .cards h1{
+
+    font-size: 20px;
+    width: 75%;
+}
+
+.cards_users .cards i{
+
+    font-size: 40px;
+}
+
+.contact_users{
+
+    padding: 50px 0;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contact_users .btn{
+
+    background-color: deeppink;
+    max-width: 300px;
+}
+
+.contact_users .btn:hover {
+
+    background-color: #a9005a;
+    transition: 0.5s ease-in-out;
+}
+
+.contact_users img{
+
+    border-radius: 20px;
+    max-width: 600px;
+}
