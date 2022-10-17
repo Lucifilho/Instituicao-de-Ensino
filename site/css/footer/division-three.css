@@ -1,0 +1,25 @@
+.division .contact_info .contacts{
+
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.division .contact_info .contacts {
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.division .contact_info .contacts li{
+
+    display: flex;
+    gap: 10px;
+}
+
+.division .contact_info .contacts li i{
+
+    color: white;
+    font-size: 25px;
+}

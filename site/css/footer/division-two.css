@@ -1,0 +1,11 @@
+.features ul li{
+
+    font-size: 20px;
+}
+
+.features ul{
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

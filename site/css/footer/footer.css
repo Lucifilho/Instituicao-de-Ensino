@@ -1,0 +1,39 @@
+@import url('division-one.css');
+@import url('division-two.css');
+@import url('division-three.css');
+
+
+footer{
+
+    background-color: #3f0d3f;
+    margin: 0;
+    padding: 50px 0;
+}
+
+.containers_info{
+
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.containers_info img{
+
+    width: 100%;
+    max-width: 300px;
+}
+
+
+
+.division .title{
+
+    font-size: 50px;
+    color: white;
+}
+
+.division{
+
+    align-self: center;
+    width: 100%;
+    max-width: 450px;
+}

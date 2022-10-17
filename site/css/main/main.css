@@ -7,6 +7,7 @@ main{
     flex-direction: column;
     gap: 50px;
     background-color: rgba(88, 211, 255, 0.15);
+    padding: 100px 0;
 }
 
 .title_texts{

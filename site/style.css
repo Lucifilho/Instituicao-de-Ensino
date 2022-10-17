@@ -1,6 +1,6 @@
 @import url(css/header/header_menu.css);
 @import url(css/main/main.css);
-@import url(css/footer.css);
+@import url(css/footer/footer.css);
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
 
@@ -53,4 +53,10 @@ i{
     padding: 15px 35px;
     align-self: center;
     border-radius: 10px;
+}
+
+ul {
+
+    margin: 0;
+    padding: 0;
 }
